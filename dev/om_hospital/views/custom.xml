@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<odoo>
+<!--<record id="res_partner_form_inherited" model="ir.ui.view">-->
+<!--    <field name="name">res.partner.form.inherited</field>-->
+<!--    <field name="model">res.partner</field>-->
+<!--    <field name="inherit_id" ref="base.view_partner_form"/>-->
+<!--    <field name="arch" type="xml">-->
+<!--&lt;!&ndash;        <xpath expr="//field[@name='task_ids']" position="after">&ndash;&gt;-->
+<!--            <field name="custom_field"/>-->
+<!--        </xpath>-->
+<!--    </field>-->
+<!--</record>-->
+
+<!--    <record id="view_partner_form_inherited" model="ir.ui.view">-->
+<!--    <field name="name">res.partner.form.inherited</field>-->
+<!--    <field name="model">res.partner</field>-->
+<!--    <field name="inherit_id" ref="base.view_partner_form"/>-->
+<!--    <field name="arch" type="xml">-->
+<!--        <data>-->
+<!--                <field name="name" position="after">-->
+<!--&lt;!&ndash;                <field name="custom_field" string="Custom Field"/>&ndash;&gt;-->
+
+<!--                <field name="custom_field" String="Custom Field" widget="char"/>-->
+<!--            </field>-->
+<!--        </data>-->
+<!--    </field>-->
+<!--</record>-->
+
+
+</odoo>
